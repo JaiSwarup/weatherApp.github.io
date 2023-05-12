@@ -1,1 +1,1 @@
-# weatherApp.github.io
+# weatherapp.github.io
